@@ -8,7 +8,9 @@
 #
 # for Domain use, u dont need the Lines Above
 #
-#(c) Thomas Faßbender
+# (c) Thomas Faßbender
+# https://github.com/Taracraft
+# Tara@bad-timing.eu
 # Variables
 # Administrator-Anmeldeinformationen
 $AdminName = "xxx"
